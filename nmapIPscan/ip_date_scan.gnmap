@@ -1,0 +1,4 @@
+# Nmap 7.92 scan initiated Thu Oct 27 10:23:01 2022 as: nmap -Pn -oA ip_date_scan 37.170.126.153
+Host: 37.170.126.153 ()	Status: Up
+Host: 37.170.126.153 ()	Ports: 21/open/tcp//ftp///	Ignored State: filtered (999)
+# Nmap done at Thu Oct 27 10:23:58 2022 -- 1 IP address (1 host up) scanned in 57.26 seconds
